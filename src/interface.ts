@@ -27,6 +27,7 @@ render(result)
 
 // 结尾一点点没看懂
 
+
 interface StringArray {
   [index: number]: string
 }
